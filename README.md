@@ -17,5 +17,5 @@ Instructions for setup
 - Open the project folder in a text editor of your choice.
 - Open the index.html file to view the website in your browser.
 
-Or you can just follow the link kilativ147.github.io/cloudFlex/
+Or you can just follow the link https://kilativ147.github.io/cloudFlex/
 
